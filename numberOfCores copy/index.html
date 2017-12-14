@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Chart</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+</head>
+
+<body translate="no">
+
+  <div class="container centered">
+    <div id="myGraph"></div>
+  </div>
+  <script src="libs/d3.v4.min.js"></script>
+  <script src="scripts/d3script.js"></script>
+  <style>
+    .svg-chart-container-number-of-cores  text {
+      -webkit-user-select: none;
+      /* webkit (safari, chrome) browsers */
+      -moz-user-select: none;
+      /* mozilla browsers */
+      -khtml-user-select: none;
+      /* webkit (konqueror) browsers */
+      -ms-user-select: none;
+      /* IE10+ */
+    }
+  </style>
+
+  <script>
+    var data = {
+      value: 3,
+      min: 1,
+      max: 30,
+      description: 'From 1 to 30',
+      title: 'Select number of cores'
+    }
+
+    var chart = renderChartNumberOfCores()
+      .container('#myGraph')
+      .data(data)
+      .backgroundColor('#1D1E33')
+      .debug(true)
+      .run()
+  </script>
+
+
+</body>
+
+</html>
