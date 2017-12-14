@@ -1,10 +1,5 @@
 # d3-Cheng
 
-https://www.freelancer.com/projects/javascript/project-for-bumbeishvili/
-https://www.upwork.com/jobs/_~01e7ec678828199f8b/
-
-
-
 1. [gauge](https://bumbeishvili.github.io/d3-Cheng/gauge/)
 2. [area](https://bumbeishvili.github.io/d3-Cheng/area/)
 3. [combined](https://bumbeishvili.github.io/d3-Cheng/layout.html)
