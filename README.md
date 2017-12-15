@@ -9,5 +9,3 @@
 7. [number of cores](https://bumbeishvili.github.io/d3-Cheng/numberOfCores/)
 8. [ram](https://bumbeishvili.github.io/d3-Cheng/ram/)
 
-
-
