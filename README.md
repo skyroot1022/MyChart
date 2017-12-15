@@ -8,4 +8,3 @@
 6. [storage capacity](https://bumbeishvili.github.io/d3-Cheng/storageCapacity/)
 7. [number of cores](https://bumbeishvili.github.io/d3-Cheng/numberOfCores/)
 8. [ram](https://bumbeishvili.github.io/d3-Cheng/ram/)
-
