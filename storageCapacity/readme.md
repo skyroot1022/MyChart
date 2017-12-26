@@ -15,5 +15,4 @@ View full boilerplate explanations in  [d3-coding-conventions repository](https:
     // OPTIONAL _ update chart
     chart.data(newData)
   
-
 ```
